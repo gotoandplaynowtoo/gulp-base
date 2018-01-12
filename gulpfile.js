@@ -16,9 +16,10 @@ var cssDist = './dist/css';
 /**
  * js files & build distribution destination
  */
-var jsDist = './src/dist/js';
+var jsDist = './dist/js';
 var js = [
-    './src/js/sample.js',
+    './src/js/sample-001.js',
+    './src/js/sample-002.js',
 ];
 
 /**
